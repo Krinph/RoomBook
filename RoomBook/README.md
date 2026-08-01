@@ -11,9 +11,9 @@
 | MySQL | 关系型数据库     |
 | Spring Security | 安全认证与权限控制  |
 | JWT (JJWT) | Token 身份认证 |
-| BCrypt | 密码加密 |
-| Jakarta Validation | 参数校验 |
-| Maven | 构建工具 |
+| BCrypt | 密码加密       |
+| Jakarta Validation | 参数校验       |
+| Maven | 构建工具       |
 
 ## 功能特性
 
